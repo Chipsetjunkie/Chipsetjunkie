@@ -12,7 +12,7 @@
 
  <img  alt="🦑" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Chipsetjunkie&theme=dark&layout=compact">
 
-[](https://komarev.com/ghpvc/?username=Chipsetjunkie)
+![](https://komarev.com/ghpvc/?username=Chipsetjunkie)
 
 
 
