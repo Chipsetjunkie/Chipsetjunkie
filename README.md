@@ -1,5 +1,3 @@
-[](https://komarev.com/ghpvc/?username=Chipsetjunkie)
-
 <h1 align="center">Hello There!! 😊 I'm Rahul</h1>
 <h3 align="center">I love building applications on the web</h3>
 
@@ -14,6 +12,7 @@
 
  <img  alt="🦑" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Chipsetjunkie&theme=dark&layout=compact">
 
+[](https://komarev.com/ghpvc/?username=Chipsetjunkie)
 
 
 
